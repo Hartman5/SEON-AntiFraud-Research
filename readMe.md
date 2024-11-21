@@ -4,9 +4,9 @@ This repository is an active project, a work in progress.
 **REVERSE ENGINEERING COURSE COMING SOON**
 
 # Contact
-(Telegram)[https://t.me/reversewasm]
-(Email)[mailto:evan@nodesolutions.dev]
-(Website)[https://nodesolutions.dev/]
+[Telegram](https://t.me/reversewasm)
+[Email](mailto:evan@nodesolutions.dev)
+[Website](https://nodesolutions.dev/)
 
 # About SEON
 
