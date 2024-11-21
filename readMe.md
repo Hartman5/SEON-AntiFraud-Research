@@ -75,7 +75,11 @@ f = function() {
 ```
 
 v: crypto module
-# this function generates a random 16-byte array, then it's encoded to base64, using btoa() - translated to NodeJS: Buffer.from(str).toString('base64')
+# this function generates a random 16-byte array, then it's encoded to base64, using btoa()
+translated to NodeJS:
+```js
+Buffer.from(str).toString('base64');
+```
 
 ## Device ID Reversed
 
