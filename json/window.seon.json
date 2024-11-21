@@ -1,0 +1,21 @@
+{
+  "version": "5.11.2",
+  "opts": {
+      "audio_fingerprint": true,
+      "canvas_fingerprint": true,
+      "dnsTimeout": 2000,
+      "font_list": false,
+      "host": "seondf.com",
+      "max_proxy_delay": 0,
+      "session_id": "ad26edc2-22a8-4114-80d1-f8b714a9fd06",
+      "similarity_hash": true,
+      "verbose": false,
+      "webgl_fingerprint": true,
+      "geolocation": "none",
+      "geolocation_age": 600,
+      "geolocation_prompt": false,
+      "referrer_parameters": false,
+      "silent_mode": true,
+      "window_location_length": 128
+  }
+}
